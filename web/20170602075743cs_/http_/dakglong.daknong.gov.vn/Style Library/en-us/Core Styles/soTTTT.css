@@ -1589,7 +1589,7 @@ div.news-tab-li-item a:hover{
 /** Tin chuyen muc **/
 .div_header_style1{
 	font-weight:bold;	
-	padding-bottom:10px;
+	/* padding-bottom:10px; */
 }
 .div_header_style1 a{
 	color:#333!important;
@@ -1611,7 +1611,7 @@ td.TitleFront a, td.TitleFront a:link{
 	font-size:12px;
 }
 td.TitleFront a, td.TitleFront a:link, td.TitleFront a:visited{
-	color:#0072ad;
+	color:#000;
 }
 img.img-slidemenu{
 	margin-right:7px;
