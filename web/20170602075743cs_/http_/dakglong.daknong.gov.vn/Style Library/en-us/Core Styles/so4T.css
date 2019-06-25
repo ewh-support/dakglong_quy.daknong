@@ -19,7 +19,7 @@ div.s4-title1{
 	padding-left:0px;
 	margin-left:-1px;
 	padding-top:5px;
-	background:rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll 1px 0;
+	/* background:rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll 1px 0; */
 	border-bottom:1px solid red;
 	font-size: 12px;
 }
@@ -131,7 +131,7 @@ div.ms-logo a{
 	width:120px;
 }
 div#s4-bodyContainer{
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgTopbg.jpg") repeat-x 0 0;	
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgTopbg.jpg") repeat-x 0 0;	 */
 	padding-bottom:0px;
 	width:960px;
 	margin:0px auto;
@@ -141,7 +141,7 @@ div#s4-titlerow, div#s4-mainarea1{
 	margin:0px auto;
 }
 div#s4-mainarea1{
-	background: url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/bgMain.jpg") repeat-y 0 0;	
+	background: url("/img/bgMain.jpg") repeat-y 0 0;	
 }
 div.hMain, div.snMain{
 	padding:5px 12px;	
@@ -158,10 +158,10 @@ div.snRight{
 	width:220px;
 }
 li div.main-level{
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/iconMenu.png") no-repeat 38px center;	
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/iconMenu.png") no-repeat 38px center;	 */
 }
 li.LvSelected div.main-level{
-	background: url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/iconMenuOn.png") no-repeat 38px center;	
+	/* background: url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/iconMenuOn.png") no-repeat 38px center;	 */
 }
 li div.main-level{
 	line-height:28px;
@@ -176,7 +176,7 @@ ul#topnav div.main-level a span{
 	line-height:28px;
 }
 ul#topnav li.LvSelected div.main-level a{
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/Style Library/en-us/Core Styles/imgSoTTTT/images/menuOnL.png") no-repeat 0 0	
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/Style Library/en-us/Core Styles/imgSoTTTT/images/menuOnL.png") no-repeat 0 0	 */
 }
 ul#topnav li.LvSelected div.main-level a span{
 	
@@ -189,7 +189,7 @@ ul#topnav li:first-child{
 	margin-left:0px;
 }
 div.dateSearch{
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgDate.jpg") no-repeat right 0;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgDate.jpg") no-repeat right 0; */
 	height:36px;
 	padding-bottom:0px;
 }
@@ -202,7 +202,7 @@ div.searchL{
 /*** hot news  ****/
 div#UnionNews_Container_mode2{
 	padding:2px 2px 0px;
-	background: url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/bgHot.png") no-repeat 0 0;
+	/* background: url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/bgHot.png") no-repeat 0 0; */
 	height:388px;
 }
 div#UnionNews_Container_mode2 div#UnionNews_main_mode2{
@@ -223,7 +223,7 @@ div#UnionNews_Container_mode2 div#UnionNews_menu_mode2{
 	width:240px;
 	border:0px!important;
 	height:384px;
-	background:transparent url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/bghotMenu1.png") no-repeat 0 bottom;
+	/* background:transparent url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/bghotMenu1.png") no-repeat 0 bottom; */
 	overflow:hidden;
 }
 
@@ -234,7 +234,7 @@ div.union_main_image div.Union_desc h2{
 	height:45px;
 	margin-top:-30px;
 	display:block;
-	background: url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/bgHotTitle.png") repeat 0 0;
+	/* background: url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/bgHotTitle.png") repeat 0 0; */
 	text-align:center;
 	position:relative;
 	z-index:99;
@@ -267,7 +267,7 @@ div#UnionNews_menu_mode2 div.union_image_thumb ul li{
 	background-image:none;
 }
 div#UnionNews_menu_mode2 table.lv_union_table_menuheader{
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgmenuHot1.png") repeat 0 0;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgmenuHot1.png") repeat 0 0; */
 	height:29px;
 	padding-left:0px;
 }
@@ -277,7 +277,7 @@ div#UnionNews_menu_mode2 table.lv_union_table_menuheader td{
 	padding-top:0px;
 }
 .lv_union_table_menuheader td.lv_menuheader_first.tabselected{
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgmenuHotOnL1.png") repeat 0 0!important;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgmenuHotOnL1.png") repeat 0 0!important; */
 	width:115px;
 	text-align:left;
 	padding-left:25px;
@@ -287,7 +287,7 @@ table.lv_union_table_menuheader td.lv_menuheader_last{
 	text-align:left;
 }
 .lv_union_table_menuheader td.lv_menuheader_last.tabselected{
-	background: url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/bgmenuHotOnR1.png") repeat right 0!important;
+	/* background: url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/bgmenuHotOnR1.png") repeat right 0!important; */
 	width:140px;
 	text-align:center;
 	color:#333!important;
@@ -296,7 +296,7 @@ table.lv_union_table_menuheader td.lv_menuheader_last{
 .thongbao{
 	height:388px;
 	width:220px;
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgThongbao1.png") no-repeat 0 0;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgThongbao1.png") no-repeat 0 0; */
 	margin-bottom:3px;
 }
 .thongbao div.container_top1{
@@ -308,7 +308,7 @@ table.lv_union_table_menuheader td.lv_menuheader_last{
 }
 div.thongbao div.container_top_left1{
 	height:34px;
-	background:rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll -1px -3px;
+	/* background:rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll -1px -3px; */
 	padding-left:60px;
 	border-radius:5px;
 	
@@ -322,7 +322,7 @@ div.thongbao div.container_top_left1{
 }
 div.thongbao-detail td.LItem a, div.thongbao-detail td.LItem a:link{
 	color:#333;
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/iconTB1.png") no-repeat 0 2px;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/iconTB1.png") no-repeat 0 2px; */
 	padding-left:18px;
 	display:block;
 }
@@ -336,7 +336,7 @@ div.container_mid_main_in1{
 }
 div.tieudiem_title{
 	height:22px;
-	background: rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll -1px -3px;
+	/* background: rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll -1px -3px; */
 	padding-top:10px;
 	padding-left:15px;
 	border-radius:2px;
@@ -347,7 +347,7 @@ div.tieudiem_title a,div.tieudiem_title a:link, div.tieudiem_title a:visited{
 div.lv_topnews_mode3_divContainer{
 	border:1px #8bc8eb solid;
 	min-height:100px;
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bg-tieudiem.png") repeat-x left top
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bg-tieudiem.png") repeat-x left top */
 }
 li.lv_topnews_mode3_ul_li{
 	width:145px;
@@ -424,12 +424,12 @@ div.lacviet-tabsnews div.ui-tabs ul.ui-tabs-nav li.tabs-0 a{
 .ui-tabs ul.ui-tabs-nav{
 	height:32px;
 	line-height:32px;
-	background:rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll -1px -3px;
+	/* background:rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll -1px -3px; */
 	border-radius:2px;
 }
 ul.ui-tabs-nav li{
 	border-left:0px;
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tabBor.jpg") no-repeat left center;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tabBor.jpg") no-repeat left center; */
 }
 ul.ui-tabs-nav li.ui-state-default a:link{
 	color:#fff;
@@ -467,7 +467,7 @@ div.news-tab-thumb{
 	color:#f00;
 }
 div.news-tab-li-item div a{
-	background: url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/iconTabNew.png") no-repeat left 3px;
+	background: url("/img/iconTabNew.png") no-repeat left 3px;
 	color:#0069ab;
 	height:30px;
 	overflow:hidden;
@@ -511,7 +511,7 @@ div.wpVBM table.ds_VBPL td.td_vanbanmoi{
 div.videobox-title, div.title-album, div.linkweb div.linkweb-title, div.wpVBM table.ds_VBPL td.td_vanbanmoi{
 	height:32px;
 	line-height:32px!important;
-	background: rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll -1px -3px;
+	/* background: rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll -1px -3px; */
 	border-radius:2px;
 }
 div.title-album{
@@ -572,12 +572,12 @@ div.navList{
 div.ms-navheader{
 	height:30px;
 	line-height:30px!important;
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/navHeader.jpg") repeat-x 0 0;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/navHeader.jpg") repeat-x 0 0; */
 }
 .WeatherForecast div.wf-title{
 	height:32px;
 	line-height:32px!important;
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tdTitle.jpg") repeat-x 0 0;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tdTitle.jpg") repeat-x 0 0; */
 }
 .WeatherForecast div.wf-title{
 	margin-top:0px;
@@ -648,14 +648,14 @@ div.lv-pst-xtn-t{
 	padding-bottom:10px;
 }
 td.Other li{
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/dotNews1.png") no-repeat 0 5px;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/dotNews1.png") no-repeat 0 5px; */
 	padding-left:16px;
 }
 td.Other li:hover{
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/dotNews1.png") no-repeat 0 5px;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/dotNews1.png") no-repeat 0 5px; */
 }
 div.container_top_mid2, .snCenter div.container_top_left1{
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tdTitle.jpg") repeat-x 0 0;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tdTitle.jpg") repeat-x 0 0; */
 	height:auto;
 	overflow:hidden;
 }
@@ -685,7 +685,7 @@ td.tinHT{
 	padding:10px;
 }
 tr.tr-title td.dvVBPL-title{
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tdTitle.jpg") repeat-x 0 0;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tdTitle.jpg") repeat-x 0 0; */
 	height:32px;
 	line-height:32px;
 	padding:0px 0px 15px 15px!important;
@@ -740,7 +740,7 @@ ul.classhide{
 	display:none;
 }
 ul.classshow ul.classshow a.leftsubmenu, ul.classshow ul.classshow div.div-leftsubmenu span{
-	background: url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/iconTabNew.png") no-repeat left 3px!important;	
+	background: url("/img/iconTabNew.png") no-repeat left 3px!important;	
 	color:#005e98!important;
 }
 div.navList div.ms-navItem a{
@@ -758,7 +758,7 @@ table.ds_VBPL tr.row_title td{
 	border:0px #9ec5df solid;
 }
 div#col1album{
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tdTitle.jpg") repeat-x 0 0;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tdTitle.jpg") repeat-x 0 0; */
 	height:auto;
 	overflow:hidden;
 	margin-bottom:10px;
@@ -782,7 +782,7 @@ div.abc img{
 	width:100px;
 }
 .vanTitle{
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tdTitle.jpg") repeat-x 0 0;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tdTitle.jpg") repeat-x 0 0; */
 	height:32px;
 	line-height:32px;
 	padding-left:15px;
@@ -811,13 +811,13 @@ li.LvSelected{
 }
 ul#topnav ul.children{
 	margin-left:40px;
-	background:transparent url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgmenuXo.png") no-repeat 0 bottom;
+	/* background:transparent url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgmenuXo.png") no-repeat 0 bottom; */
 	padding-bottom:12px;
 }
 ul#topnav ul.children li a{
 	border-bottom:0px;
 	border-bottom:0px;
-	background:url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/iconTabNew.png") no-repeat 10px 11px;
+	background:url("/img/iconTabNew.png") no-repeat 10px 11px;
 	line-height:32px;
 }
 ul#topnav ul.children li a:hover{
@@ -934,7 +934,7 @@ div.dvnduy-sitemap a:hover{
 }
 div.sitemap-title{
 	height:32px;
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tdTitle.jpg") repeat-x 0 0;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tdTitle.jpg") repeat-x 0 0; */
 	line-height:32px;
 	padding-left:15px;
 	color:#fff;
@@ -1006,7 +1006,7 @@ td.OtherTitle{
 }
 #UnionNews_main_mode2 .Union_block{
 	height:133px;	
-	background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgDes1.png") no-repeat 0 bottom;
+	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgDes1.png") no-repeat 0 bottom; */
 }
 .hot-content1{
 	line-height:18px;

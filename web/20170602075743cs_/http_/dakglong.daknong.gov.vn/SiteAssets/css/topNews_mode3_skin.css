@@ -52,10 +52,10 @@
 	cursor: pointer;
 }
 .jcarousel-next-horizontal {
-	right: 7px;background: transparent url(https://web.archive.org/web/20170628222208im_/http://dakglong.daknong.gov.vn/SiteAssets/images/NextOff.png) no-repeat right top;
+	/* right: 7px;background: transparent url(https://web.archive.org/web/20170628222208im_/http://dakglong.daknong.gov.vn/SiteAssets/images/NextOff.png) no-repeat right top; */
 }
 .jcarousel-prev-horizontal {
-	left: 7px;background: transparent url(https://web.archive.org/web/20170628222208im_/http://dakglong.daknong.gov.vn/SiteAssets/images/PreOff.png) no-repeat left top;
+	/* left: 7px;background: transparent url(https://web.archive.org/web/20170628222208im_/http://dakglong.daknong.gov.vn/SiteAssets/images/PreOff.png) no-repeat left top; */
 }
 /*.jcarousel-next-horizontal:hover {
 	background: transparent url(/web/20170628222208im_/http://dakglong.daknong.gov.vn/SiteAssets/images/NextOff.png) no-repeat right top;
