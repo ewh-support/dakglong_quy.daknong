@@ -28,13 +28,13 @@ __wbhack.init('https://web.archive.org/web');
 	<script type="text/javascript">
 	var _fV4UI = true;
 	</script>
-	<script type="text/javascript">
+	<!-- <script type="text/javascript">
 // <![CDATA[
 document.write('<script type="text/javascript" src="/_layouts/1033/init.js?rev=BJDmyeIV5jS04CPkRq4Ldg%3D%3D"></' + 'script>');
 document.write('<script type="text/javascript" src="https://web.archive.org/ScriptResource.axd?d=8IUvfJRUCEecRwnKrKGrbyugSUh83JBUW9xph98ZPNF8NBEjtG_kkqCvs_PgbCN9mQyWNxQvMG8qf4xYbpf_dHzQR368mWQwDedZVXBO0TfFP9zQ6ROtujriGqaaxpIWVJ-tqybMt15BlZHLsBrUpAFFVto1&amp;t=fffffffff9d85fa6"></' + 'script>');
 document.write('<script type="text/javascript" src="../../../../../_layouts/blank.js@rev=QGOYAJlouiWgFRlhHVlMKA%253D%253D"></' + 'script>');
 // ]]>
-</script>
+</script> -->
 <link type="text/xml" rel="alternate" href="https://web.archive.org/web/20170602075743/http://dakglong.daknong.gov.vn/_vti_bin/spsdisco.aspx"/>
 
 	<link rel="stylesheet" type="text/css" href="../../../../20170602075743cs_/http%253A/dakglong.daknong.gov.vn/Pages/_LAYOUTS/LacVietBio/css/home.css"/>
@@ -896,7 +896,7 @@ var g_commandUIHandlers = {"name":"CommandHandlers","attrs":{},"children":[]};
     </table>
 
 					</div>
-<img id="ctl00_m_g_c5ebf736_e73c_47db_8fc2_14be3d6f5d4c_ctl00_ImgDynamic" src="../../../../20170602075743im_/http%253A/dakglong.daknong.gov.vn/_layouts/images/blank.gif" height="1" width="1" border="0" style="position: absolute;"/>
+<img id="ctl00_m_g_c5ebf736_e73c_47db_8fc2_14be3d6f5d4c_ctl00_ImgDynamic" src="/img/blank.gif" height="1" width="1" border="0" style="position: absolute;"/>
 				</div></div></td>
 			</tr>
 		</table><div class="ms-PartSpacingVertical"></div></td>
@@ -2013,7 +2013,7 @@ var slideshow=new TINY3.slider.slide('slideshow',{
     </table>
 
 					</div>
-<img id="ctl00_m_g_c45b77e1_601d_4460_bb59_865e1707e802_ctl00_ImgDynamic" src="../../../../20170602075743im_/http%253A/dakglong.daknong.gov.vn/_layouts/images/blank.gif" height="1" width="1" border="0" style="position: absolute;"/>
+<img id="ctl00_m_g_c45b77e1_601d_4460_bb59_865e1707e802_ctl00_ImgDynamic" src="/img/blank.gif" height="1" width="1" border="0" style="position: absolute;"/>
 				</div></div></td>
 			</tr>
 		</table><div class="ms-PartSpacingVertical"></div></td>
@@ -2339,7 +2339,7 @@ var slideshow=new TINY3.slider.slide('slideshow',{
 		<td id="MSOZoneCell_WebPartWPQ6" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
 				<td valign="top"><div webpartid="880a8511-4b9c-46ff-88ab-b52d7584f93a" haspers="false" id="WebPartWPQ6" width="100%" class="ms-WPBody noindex" allowdelete="false" style=""><div id="ctl00_m_g_880a8511_4b9c_46ff_88ab_b52d7584f93a">
-					<script language="javascript" type="text/javascript" src="https://web.archive.org/web/20170602075743js_/http://dakglong.daknong.gov.vn/SiteAssets/jquery-1.4.4.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">var a = 1;</script><script type="text/javascript" src="../../../../20170602075743js_/http%253A/dakglong.daknong.gov.vn/_LAYOUTS/LacVietBio/js/jwplayer.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">a = 1;</script><script type="text/javascript" src="../../../../20170602075743js_/http%253A/dakglong.daknong.gov.vn/SiteAssets/js/video/silverlight.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">var a = 1;</script><script type="text/javascript" src="../../../../20170602075743js_/http%253A/dakglong.daknong.gov.vn/SiteAssets/js/video/wmvplayer.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">var a = 1;</script><div class="videobox" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema"><div class="videobox-content"><div class="videobox-title"><a href="https://web.archive.org/web/20170602075743/http://dakglong.daknong.gov.vn/Lists/ThuVienVideo/quan-tri.aspx">Thư viện Video</a></div><div id="videobox-image" class="videobox-image" style="width:226px;height:250px"><div class="p-videobox-thumb"><img id="img-videobox-thumb" class="videobox-thumb" src="../../../../20170602075743im_/http%253A/dakglong.daknong.gov.vn/HinhDaiDienVideo/_w/image003_jpg.jpg" srcmedia="http://222.255.158.21:554/CentralMedia//WMV/dulichdaknongphan4.wmv" alt=""/></div><div class="p-videobox-thumb2"><img class="videobox-thumb21" src="../../../../20170602075743im_/http%253A/dakglong.daknong.gov.vn/Pages/_Layouts/lacvietbio/eofficeimg/play_icon.png" alt=""/></div></div><div id="flvplayer">&nbsp;</div><div id="MediaPlayerZone">&nbsp;</div><div class="mediaItems"><ul class="ul-mediaItem"><li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia//WMV/dulichdaknongphan4.wmv" urlimage="/HinhDaiDienVideo/_w/image003_jpg.jpg">Du lịch ĐakNông</li><li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia//Hoangsa/toquocnhintubien.wmv" urlimage="/HinhDaiDienVideo/_w/Bài minh tâm - tà đùng_jpg_jpg.jpg">Tổ quốc nhìn từ biển</li></ul></div></div></div><script xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
+					<script language="javascript" type="text/javascript" src="/js/jquery-1.4.4.min.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">var a = 1;</script><script type="text/javascript" src="../../../../20170602075743js_/http%253A/dakglong.daknong.gov.vn/_LAYOUTS/LacVietBio/js/jwplayer.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">a = 1;</script><script type="text/javascript" src="../../../../20170602075743js_/http%253A/dakglong.daknong.gov.vn/SiteAssets/js/video/silverlight.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">var a = 1;</script><script type="text/javascript" src="../../../../20170602075743js_/http%253A/dakglong.daknong.gov.vn/SiteAssets/js/video/wmvplayer.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">var a = 1;</script><div class="videobox" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema"><div class="videobox-content"><div class="videobox-title"><a href="https://web.archive.org/web/20170602075743/http://dakglong.daknong.gov.vn/Lists/ThuVienVideo/quan-tri.aspx">Thư viện Video</a></div><div id="videobox-image" class="videobox-image" style="width:226px;height:250px"><div class="p-videobox-thumb"><img id="img-videobox-thumb" class="videobox-thumb" src="../../../../20170602075743im_/http%253A/dakglong.daknong.gov.vn/HinhDaiDienVideo/_w/image003_jpg.jpg" srcmedia="http://222.255.158.21:554/CentralMedia//WMV/dulichdaknongphan4.wmv" alt=""/></div><div class="p-videobox-thumb2"><img class="videobox-thumb21" src="../../../../20170602075743im_/http%253A/dakglong.daknong.gov.vn/Pages/_Layouts/lacvietbio/eofficeimg/play_icon.png" alt=""/></div></div><div id="flvplayer">&nbsp;</div><div id="MediaPlayerZone">&nbsp;</div><div class="mediaItems"><ul class="ul-mediaItem"><li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia//WMV/dulichdaknongphan4.wmv" urlimage="/HinhDaiDienVideo/_w/image003_jpg.jpg">Du lịch ĐakNông</li><li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia//Hoangsa/toquocnhintubien.wmv" urlimage="/HinhDaiDienVideo/_w/Bài minh tâm - tà đùng_jpg_jpg.jpg">Tổ quốc nhìn từ biển</li></ul></div></div></div><script xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
           function playMedia(mediaItem) {
             urlVideo = mediaItem.getAttribute("Url");
             urlImage = mediaItem.getAttribute("UrlImage");
@@ -2478,7 +2478,7 @@ var slideshow=new TINY3.slider.slide('slideshow',{
           </span>
         </table>
       </div>
-      <img style="POSITION: absolute; BORDER-RIGHT-WIDTH: 0px; WIDTH: 1px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 1px; BORDER-LEFT-WIDTH: 0px" id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_img_hinh" src="../../../../20170602075743im_/http%253A/dakglong.daknong.gov.vn/_layouts/images/blank.gif"/> 
+      <img style="POSITION: absolute; BORDER-RIGHT-WIDTH: 0px; WIDTH: 1px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 1px; BORDER-LEFT-WIDTH: 0px" id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_img_hinh" src="/img/blank.gif"/> 
       </div>
 				</div></div></td>
 			</tr>
@@ -2868,7 +2868,7 @@ var slideshow=new TINY3.slider.slide('slideshow',{
     </table>
 
 			</div>
-<img id="ctl00_g_b910fd59_2aa4_473f_91d1_241ad2d667c1_ctl00_ImgDynamic" src="../../../../20170602075743im_/http%253A/dakglong.daknong.gov.vn/_layouts/images/blank.gif" height="1" width="1" border="0" style="position: absolute;"/>
+<img id="ctl00_g_b910fd59_2aa4_473f_91d1_241ad2d667c1_ctl00_ImgDynamic" src="/img/blank.gif" height="1" width="1" border="0" style="position: absolute;"/>
 		</div></div></td>
 	</tr>
 </table>
