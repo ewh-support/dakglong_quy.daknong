@@ -216,7 +216,7 @@ div#UnionNews_main_mode2 div.union_main_image img{
 }
 div#UnionNews_menu_mode2 .union_image_thumb img{
 	width:68px;
-	height:48px;
+	height:55px;
 	border:1px #8ebedd solid;
 }
 div#UnionNews_Container_mode2 div#UnionNews_menu_mode2{
@@ -249,7 +249,7 @@ p.hot-content1{
 	font-size: 14px;
 }
 div#UnionNews_menu_mode2 div.Union_block{
-	width:137px;
+	width:160px;
 	float:right;
 	text-align:justify;
 }
@@ -263,7 +263,7 @@ div#UnionNews_menu_mode2 div.Union_block a:hover{
 	color:#d00!important;
 }
 div#UnionNews_menu_mode2 div.union_image_thumb ul li{
-	padding:14px 10px 2px 4px;
+	padding:10px 0px 0px 0px;
 	background-image:none;
 }
 div#UnionNews_menu_mode2 table.lv_union_table_menuheader{
@@ -320,8 +320,7 @@ div.thongbao div.container_top_left1{
 }
 div.thongbao-detail td.LItem a, div.thongbao-detail td.LItem a:link{
 	color:#333;
-	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/iconTB1.png") no-repeat 0 2px; */
-	padding-left:18px;
+	padding-left:10px;
 	display:block;
 }
 /***/
@@ -364,8 +363,8 @@ div.TopNews-jcarousel-skin-tango div.jcarousel-container-horizontal{
 	padding-left:48px;
 }
 li div.lv_topnews_mode3_ul_li_divTitle a:link{
-	height:42px;
-	padding-top:10px;
+	height:auto;
+	padding-top:7px;
 }
 td.ms-sbcell{
 	width:204px;
@@ -412,7 +411,7 @@ div.lacviet-tabsnews .news-tab-thumb-item-0
 div.ui-tabs div.ui-tabs-panel{
 	border-top:0px;
 	padding:12px;
-	height:200px;
+	height:auto;
 	border:1px solid #0099cc;
 }
 div.lacviet-tabsnews div.ui-tabs ul.ui-tabs-nav li.tabs-0 a{
@@ -465,14 +464,14 @@ div.news-tab-thumb{
 	color:#f00;
 }
 div.news-tab-li-item div a{
-	background: url("/img/iconTabNew.png") no-repeat left 3px;
+	background: url("/images/icon_news.gif") no-repeat left 3px;
 	color:#0069ab;
-	height:30px;
+	height:auto;
 	overflow:hidden;
 	display:block;
 }
 div.news-tab-li-item div a:link, div.news-tab-li-item div a:visited{
-	color:#0069ab;
+	color:#555;
 }
 div.news-tab-li-item div a:hover{
 	color:#d00;
@@ -670,7 +669,7 @@ tr.ms-news-header td.FolderTitle{
 	font-size:12px;
 }
 td.Time{
-	padding-top:40px;
+	padding:8px;
 }
 td.TitleFront{
 	padding:0px 10px;
