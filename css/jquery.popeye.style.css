@@ -140,7 +140,7 @@
     width: 104px;
     height: 32px;
     padding: 5px;
-    position: absolute;
+    position: relative;
     /*  top:            32px;*/
     /* left:           0;  */
     border-radius: 0 0 5px 5px;

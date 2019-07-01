@@ -296,19 +296,17 @@ table.lv_union_table_menuheader td.lv_menuheader_last{
 .thongbao{
 	height:388px;
 	width:220px;
-	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/bgThongbao1.png") no-repeat 0 0; */
 	margin-bottom:3px;
 }
 .thongbao div.container_top1{
 	background-color:transparent;
-	border:0px;
+	border: 1px solid #dfdfdf;
 }
 .thongbao div.container_top1{
 	height:388px;
 }
 div.thongbao div.container_top_left1{
-	height:34px;
-	/* background:rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll -1px -3px; */
+	height:29px;	
 	padding-left:60px;
 	border-radius:5px;
 	
@@ -414,7 +412,7 @@ div.lacviet-tabsnews .news-tab-thumb-item-0
 div.ui-tabs div.ui-tabs-panel{
 	border-top:0px;
 	padding:12px;
-	height:218px;
+	height:200px;
 	border:1px solid #0099cc;
 }
 div.lacviet-tabsnews div.ui-tabs ul.ui-tabs-nav li.tabs-0 a{
