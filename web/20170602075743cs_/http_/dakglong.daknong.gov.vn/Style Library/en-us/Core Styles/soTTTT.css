@@ -40,6 +40,11 @@ ul#topnav li a {
 .LvSelected{
 	background-color:#f0f0f0;
 }
+span#tP{
+	font-family:Arial;
+	font-size:12px;
+	color:#272626;
+}
 .LvSelected div.main-level a, .LvSelected div.main-level a:link{
 	color:#b90000;
 }

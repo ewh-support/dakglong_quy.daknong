@@ -15,11 +15,9 @@ div.s4-title1{
 	background-image:none;
 }
 .v4-banner div.ms-menu{
-	height:35px;
+	height:32px;
 	padding-left:0px;
-	margin-left:-1px;
-	padding-top:5px;
-	/* background:rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll 1px 0; */
+	margin-left:-1px;	
 	border-bottom:1px solid red;
 	font-size: 12px;
 }
@@ -121,7 +119,7 @@ div.dRight{
 /***/
 div.logoS
 {
-	height:150px;
+	height:143px;
 	background: url("/img/banner.jpg") no-repeat 1px 0px;
 }
 div.ms-logo a{
@@ -831,7 +829,7 @@ ul#topnav ul.children li a{
 	padding-top:0px;
 }
 ul.two-column li{
-	background:url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/menuXobor.jpg") no-repeat 10px top!important;
+	background:url("/#") no-repeat 10px top!important;
 	overflow:hidden;
 }
 ul.two-column:first-child li{
