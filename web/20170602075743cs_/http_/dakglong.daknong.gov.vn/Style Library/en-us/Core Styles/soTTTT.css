@@ -80,7 +80,7 @@ body.soTTTT td, body.soTTTT a, body.soTTTT a:link,.soTTTT .ms-WPBody,span#tP,#ta
 ,.div_loaihtvb div,.alert,.news-tab-thumb-item-right-0 div, .news-tab-thumb-item-right-0 a,.mediaXemTiep a, .mediaXemTiep a:link, .mediaXemTiep a:visited
 ,.div_SoKiHieu,.searchLB,b.lv_description_mode1,.ms-news-header td.Time,.Other li a, .Other li a:link,ul#topnav li a,.ui-tabs-hide,
 table.tb-tracuu td, h3, .dv-input select, dv-input input, .title_VBPL, table.ds_VBPL td{
-	font-family:Arial!important;font-size:12px!important
+	font-family:Arial!important;font-size:12px!important;
 	-moz-border-radius: 10px;
 /* -webkit-border-radius: 5px; */
 }
@@ -2145,7 +2145,7 @@ ui-tabs .ui-tabs-panel {
 	clear:both;
 }
 .ui-tabs .ui-tabs-hide {
-	display: none;
+	display: none !important;
 }
 /**Van ban du thao***/
 .viewdetailmain{
