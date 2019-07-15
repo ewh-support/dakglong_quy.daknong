@@ -2096,7 +2096,7 @@ li.ui-state-default a{
 }	
 .pagination{
 	float:right;	
-	padding:5px 0px 10px 0px;
+	padding:5px 5px 10px 0px;
 }
 div.pagination span, div.pagination a{
 	padding:0px;	

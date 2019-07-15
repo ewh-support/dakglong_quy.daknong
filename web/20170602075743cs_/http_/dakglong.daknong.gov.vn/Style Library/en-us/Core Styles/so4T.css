@@ -683,9 +683,9 @@ td.tinHT{
 }
 tr.tr-title td.dvVBPL-title{
 	/* background: url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/images/tdTitle.jpg") repeat-x 0 0; */
-	height:32px;
-	line-height:32px;
-	padding:0px 0px 15px 15px!important;
+	height:22px;
+	/* line-height:32px; */
+	/* padding:0px 0px 15px 15px!important; */
 	color:#fff;
 }
 td.dv-input input[type=text]{
